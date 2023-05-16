@@ -1,0 +1,17 @@
+# Ignore .pyc files and __pycache__ directories
+**/__pycache__/
+*.pyc
+
+# Ignore Pipenv files
+Pipfile
+Pipfile.lock
+
+# # Ignore .env files
+# .env
+
+# Ignore .vscode directory
+.vscode/
+
+#ignore other work/development files
+chatgpt_example.py
+openai_lib_usage.py
